@@ -6,3 +6,6 @@ adjective = input('Adjective: ')
 noun = input('Noun: ')
 
 print(f'That is one {adjective} {noun}!')
+
+current_directory = os.getcwd()
+print(current_directory)
