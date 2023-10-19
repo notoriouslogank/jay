@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-#sup integ3r.
-=======
-#test 
->>>>>>> 643c5c209455db6b3cb1c23115a575b106e9e0d2
+# This is an import statement
+import os
+
+# This is a variable declaration
+adjective = input('Adjective: ')
+noun = input('Noun: ')
+
+print(f'That is one {adjective} {noun}!')
