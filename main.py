@@ -5,5 +5,5 @@
 
 import random
 
-die = random.randint(1,6)
+die = random.randint(1,20)
 print(die)
